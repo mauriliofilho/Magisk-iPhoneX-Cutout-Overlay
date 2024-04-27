@@ -1,2 +1,5 @@
-- name: Zip Release
-  uses: TheDoctor0/zip-release@0.7.6
+- name: Upload Release
+  uses: ncipollo/release-action@v1.12.0
+  with:
+    artifacts: "release.zip"
+    token: ${{ secrets.GITHUB_TOKEN }}
