@@ -4,9 +4,9 @@
   uses: TheDoctor0/zip-release@0.7.6
   with:
     # Filename for archive
-    filename: # default is release.zip
+    filename: Magisk-iPhoneX-Cutout-Overlay
     # Base path for archive files
-    path: # optional, default is .
+    path: .
     # Working directory before zipping
     directory: # optional, default is .
     # List of excluded files / directories
