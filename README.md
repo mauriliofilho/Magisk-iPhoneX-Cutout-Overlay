@@ -8,9 +8,9 @@ Module for Magisk to enable style of Notch (Curtou) like iPhone X version on And
 
 First
 
-<img src="images/first.jpeg" width="500" height="1100"/>
+<img src="images/first.jpeg" width="450" height="980"/>
 
 Second
 
-<img src="images/second.jpeg" width="500" height="1100"/>
+<img src="images/second.jpeg" width="450" height="980"/>
 
